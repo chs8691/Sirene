@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="app_name">DentoCoach</string>
+    <string name="SireneButtonPlay">Sirene starten</string>
+    <string name="SireneButtonStop">Sirene anhalten</string>
+    <string name="infoLine">Sirene per Knopfdruck starten</string>
+    <string name="infoLineSireneStarted">Sirene gestartet</string>
+    <string name="infoLineSireneStopped">Sirene gestoppt</string>
+    <string name="infoLineNoAction">Keine Aktion</string>
+    
+</resources>
